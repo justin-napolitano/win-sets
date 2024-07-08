@@ -38,27 +38,3 @@ Stubborness is powerful.. but it can also be a hindrance.  The social conditions
 ## Conclusion
 
 I live my life wihout considering my own win-set. I do what I think is right.. but I have not really analyzed my decisions in a way that is systematic. I can do this. 
-
-
-
-## Cigarettes
-
-And here I am smoking a cigarette in a parking lot listening to Johnny Cash... completely alone and somewhat depressed making a fool of myself.  
-
-This is behavior I thought I was over.. I think I am over... but I do on these rare occasions want to prove that I still am a man -- or maybe that I still am that man.  The man of my youth.  
-
-## The Bar Scene
-
-The crowd at this bar tonight was very attractive, but also very sad. I felt like we were doing this little tango... We were all sizing up one another. I mean this is a bar so we are looking for partners, but what kind of partner can I expect to meet at a bar?
-
-## Treating my Body with Disrespect
-
-I had a drink and maybe a half.. They were okay.. but I know these are not good for my body. I also had two cigarettes. I admit that I really liked those... but I know... God I know what they do to the body. 
-
-## Rationalizing Bad Behavior
-
-I tell myself... oh it is just one cigarette. It is just one drink... and maybe that is kind of true.. but just practicing that type of behavior imprints upon the body that is okay to drink.. to smoke.. to do these ridiculous things. 
-
-## Do it again? 
-
-Nah.. simply nah. That scene is not for me. I am ready to move on. I experienced it again.. for the first time in 5 years. I had enough. I would rather go for a run.
