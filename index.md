@@ -1,12 +1,26 @@
 ---
-slug: "github-win-sets"
-title: "win-sets"
-repo: "justin-napolitano/win-sets"
-githubUrl: "https://github.com/justin-napolitano/win-sets"
-generatedAt: "2025-11-23T09:51:58.661932Z"
-source: "github-auto"
+slug: github-win-sets
+title: 'Win-Sets: Modeling Institutional Decision-Making with Actor-Level Perspectives'
+repo: justin-napolitano/win-sets
+githubUrl: https://github.com/justin-napolitano/win-sets
+generatedAt: '2025-11-23T09:51:58.661932Z'
+source: github-auto
+summary: >-
+  Conceptual analysis of institutional decision-making emphasizing actor interests, pressures, and
+  the win-set concept for consensus in multi-agent environments.
+tags:
+  - institutional-analysis
+  - decision-making
+  - actor-model
+  - multi-agent-systems
+  - conceptual-modeling
+seoPrimaryKeyword: institutional decision-making
+seoSecondaryKeywords:
+  - win-set
+  - actor interests
+  - multi-agent consensus
+seoOptimized: true
 ---
-
 
 # Win-Sets: A Reference on Institutional Decision-Making and Personal Application
 
@@ -45,3 +59,4 @@ For developers or engineers revisiting this project, the key takeaway is the fra
 - Document empirical cases to refine assumptions and parameters.
 
 This project serves as a conceptual anchor for future technical development in modeling institutional decision dynamics with actor-centric perspectives.
+
