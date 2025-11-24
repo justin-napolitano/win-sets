@@ -20,6 +20,13 @@ seoSecondaryKeywords:
   - actor interests
   - multi-agent consensus
 seoOptimized: true
+topicFamily: personal
+topicFamilyConfidence: 0.8
+topicFamilyNotes: >-
+  The post focuses on conceptual and personal reflections on institutional decision-making, actor
+  interests, and multi-agent consensus, with an analytical style and a personal example. It aligns
+  best with the 'personal' family which covers personal journals, reflections, and conceptual notes,
+  rather than software automation, data science, or devtools.
 ---
 
 # Win-Sets: A Reference on Institutional Decision-Making and Personal Application
@@ -59,4 +66,5 @@ For developers or engineers revisiting this project, the key takeaway is the fra
 - Document empirical cases to refine assumptions and parameters.
 
 This project serves as a conceptual anchor for future technical development in modeling institutional decision dynamics with actor-centric perspectives.
+
 
