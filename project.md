@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/win-sets
 generatedAt: '2025-11-24T21:36:50.251Z'
 source: github-auto
 summary: >-
-  This project examines decision-making theory and its application to real-world
-  scenarios, focusing on institutional influences and personal reflections.
+  This project examines decision-making theory and its application to real-world scenarios, focusing
+  on institutional influences and personal reflections.
 tags:
   - decision-making
   - political science
@@ -24,8 +24,8 @@ seoSecondaryKeywords:
   - theoretical frameworks in politics
   - markdown documentation
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: personal
+topicFamilyConfidence: 0.8
 kind: project
 entryLayout: project
 showInProjects: true
@@ -75,6 +75,7 @@ win-sets/
 
 
 ---
+
 
 
 
