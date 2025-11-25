@@ -1,32 +1,40 @@
 ---
 slug: github-win-sets
-title: 'Win-Sets: Modeling Institutional Decision-Making with Actor-Level Perspectives'
+title: 'Win-Sets: Understanding Institutional Decision-Making'
 repo: justin-napolitano/win-sets
 githubUrl: https://github.com/justin-napolitano/win-sets
 generatedAt: '2025-11-23T09:51:58.661932Z'
 source: github-auto
 summary: >-
-  Conceptual analysis of institutional decision-making emphasizing actor interests, pressures, and
-  the win-set concept for consensus in multi-agent environments.
+  Explore the Win-Sets project, focusing on decision-making dynamics within
+  institutions and the role of individual actors in shaping outcomes.
 tags:
   - institutional-analysis
   - decision-making
   - actor-model
   - multi-agent-systems
   - conceptual-modeling
-seoPrimaryKeyword: institutional decision-making
+  - institutional analysis
+  - multi-agent systems
+  - computational modeling
+seoPrimaryKeyword: institutional decision-making analysis
 seoSecondaryKeywords:
-  - win-set
-  - actor interests
-  - multi-agent consensus
+  - win-sets concept
+  - actor interests in decisions
+  - decision support tools
+  - normative pressures
+  - computational simulations
 seoOptimized: true
 topicFamily: personal
 topicFamilyConfidence: 0.8
 topicFamilyNotes: >-
-  The post focuses on conceptual and personal reflections on institutional decision-making, actor
-  interests, and multi-agent consensus, with an analytical style and a personal example. It aligns
-  best with the 'personal' family which covers personal journals, reflections, and conceptual notes,
+  The post focuses on conceptual and personal reflections on institutional
+  decision-making, actor interests, and multi-agent consensus, with an
+  analytical style and a personal example. It aligns best with the 'personal'
+  family which covers personal journals, reflections, and conceptual notes,
   rather than software automation, data science, or devtools.
+kind: project
+id: github-win-sets
 ---
 
 # Win-Sets: A Reference on Institutional Decision-Making and Personal Application
